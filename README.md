@@ -13,7 +13,7 @@ On the payment page, it will display all the reservations that the user made and
 Lastly, the exit function, this function just lets the user choose to exit the system. 
 
 Contributors:
--LJL
--HMM
--SCK
--LSK
+- LJL
+- HMM
+- SCK
+- LSK
